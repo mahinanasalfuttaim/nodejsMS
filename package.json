@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "chai": "^5.0.3",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "mongoose": "^8.1.1",
+    "openapi-express-router": "^1.0.6",
+    "path": "^0.12.7",
+    "sinon": "^17.0.1",
+    "swagger-tools": "^0.10.4",
+    "yamljs": "^0.3.0"
+  }
+}
